@@ -12,7 +12,7 @@ The objective of this project is to develop an advanced **Employee Performance D
 ---
 
 ## Dataset Used 
-<a href="[https://www.kaggle.com/datasets/sanjanchaudhari/employees-performance-for-hr-analytics](https://github.com/venkteshwari/Employee-Performance-Metrics/blob/main/employee_Data.xlsx)">Employee’s Performance for HR Analytics</a>
+<a href="https://github.com/venkteshwari/Employee-Performance-Metrics/blob/main/employee_Data.xlsx">Employee’s Performance for HR Analytics</a>
 
 ## 📘 Project Description
 
