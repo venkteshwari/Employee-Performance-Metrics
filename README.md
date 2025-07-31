@@ -1,6 +1,6 @@
-# 📊 Employee Performance Dashboard - Power BI Project
+#  Employee Performance Dashboard - Power BI Project
 
-## 🎯 Project Objective
+##  Project Objective
 
 The objective of this project is to develop an advanced **Employee Performance Dashboard** using **Power BI** that helps HR professionals and business managers analyze and monitor employee performance metrics. The dashboard is intended to:
 
@@ -14,7 +14,7 @@ The objective of this project is to develop an advanced **Employee Performance D
 ## Dataset Used 
 <a href="https://github.com/venkteshwari/Employee-Performance-Metrics/blob/main/employee_Data.xlsx">Employee’s Performance for HR Analytics</a>
 
-## 📘 Project Description
+##  Project Description
 
 This interactive dashboard visualizes various dimensions of employee performance and HR data. It allows users to explore how performance scores vary across multiple categories such as:
 
@@ -29,7 +29,7 @@ It also includes a KPI analysis to show how many employees are meeting their per
 
 ---
 
-## 📈 Key Performance Metrics
+##  Key Performance Metrics
 
 | **Metric**                           | **Description**                                                                 |
 |--------------------------------------|----------------------------------------------------------------------------------|
@@ -45,7 +45,7 @@ It also includes a KPI analysis to show how many employees are meeting their per
 
 ---
 
-## 📊 Dashboard Visuals
+##  Dashboard Visuals
 
 - **Bar Chart**: Avg performance score by department and education.
 - **Donut Chart**: KPI success rate, length of service by age, and recruitment channel.
@@ -56,7 +56,7 @@ It also includes a KPI analysis to show how many employees are meeting their per
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 - **Power BI** – For data visualization and interactive dashboard design.
 - **Power Query** – For data cleaning and transformation.
@@ -65,7 +65,7 @@ It also includes a KPI analysis to show how many employees are meeting their per
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 - **R&D and Operations** departments have the highest average performance.
 - Employees hired via **referral** channels perform slightly better on average.
